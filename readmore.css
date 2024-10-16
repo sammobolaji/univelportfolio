@@ -87,16 +87,15 @@ vertical-align: middle;
 }
 
 #active a {
-    color: blue; 
+    color: rgb(233, 9, 9); 
     text-decoration: none; 
     transition: color 0.3s; 
 }
 
 #active a:hover {
-    color: gray;
+    color: rgb(10, 10, 187);
     text-decoration: underline; 
 }
-
 
 
 
